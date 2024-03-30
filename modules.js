@@ -1,0 +1,7 @@
+const name=require('./name')
+const sayHi=require('./sayHi')
+ require(`./sum`)
+sayHi(name.john)
+sayHi(name.hari)
+sayHi(name.manu)
+sayHi('kotresh')

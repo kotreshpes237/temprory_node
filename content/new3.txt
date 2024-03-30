@@ -1,0 +1,1 @@
+the result of both files:hlo kotresh welcome to nodejs world,hi node js eager to learn
